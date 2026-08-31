@@ -1,0 +1,6 @@
+{
+  "name": "YatraAI - AI-Based Personalized Tourism Platform",
+  "description": "An intelligent, context-aware personalized tourism itinerary planning and travel budget expense management platform with real-time adaptation, 6-factor recommendation scoring, dynamic replanning, group expense splits, and Gemini AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
